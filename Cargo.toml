@@ -10,8 +10,8 @@ readme = "README.md"
 
 [dependencies]
 skyline_macro = { path = "./skyline_macro" }
-nnsdk = { git = "https://github.com/ultimate-research/nnsdk-rs.git" }
-libc-nnsdk = { git = "https://github.com/ultimate-research/libc-nnsdk.git" }
+nnsdk = { git = "https://github.com/inspier/nnsdk-rs.git" }
+libc-nnsdk = { git = "https://github.com/inspier/libc-nnsdk.git" }
 
 [features]
 default = ["std"]
